@@ -1,0 +1,260 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Loves power. Behold the powerful charms of love, with captives young and old, and nothing can their flames remove, that are in Cupids fold: 'till soft'ning kisses heal the wound caus'd by loves fiery dart, then pleasures flow, and joys abound, and more inflames the heart. To the tune of, Moggies jealousie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06936</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[307]</idno>
+            <idno type="EEBO-CITATION">99887790</idno>
+            <idno type="PROQUEST">ocm99887790</idno>
+            <idno type="VID">183452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06936)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183452)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[243])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Loves power. Behold the powerful charms of love, with captives young and old, and nothing can their flames remove, that are in Cupids fold: 'till soft'ning kisses heal the wound caus'd by loves fiery dart, then pleasures flow, and joys abound, and more inflames the heart. To the tune of, Moggies jealousie.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>ca. 1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication suggested by item of same title in Wing (L3281A).</note>
+                  <note>Verse: "Two lovers by chance they did meet ..."</note>
+                  <note>Imperfect: trimmed, affecting imprint and, perhaps, title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183452:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>LOVES POWER.</head>
+            <argument>
+               <lg>
+                  <l>Behold the powerful Charms of Love,</l>
+                  <l>With Captives young and Old,</l>
+                  <l>And nothing can their Flames remove,</l>
+                  <l>That are in <hi>Cupids</hi> Fold:</l>
+                  <l>'Till ſoft'ning Kiſſes heal the Wound</l>
+                  <l>Cauſ'd by Loves Fiery Dart,</l>
+                  <l>Then Pleaſures Flow, and joys abound,</l>
+                  <l>And more Inflames the Heart.</l>
+               </lg>
+            </argument>
+            <opener>To the Tune of, <hi>Moggies jealouſie.</hi>
+            </opener>
+            <p>
+               <figure/>
+            </p>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>TWo Lovers by chance they did meet,</l>
+               <l>poſſeſſed with a mutual flame,</l>
+               <l>And now you ſhall hear how they greet,</l>
+               <l>for I will declare the ſame:</l>
+               <l>Quoth he, thou haſt ſparks in thine eyes,</l>
+               <l>that do kindle in me ſuch a fire,</l>
+               <l>I comforts ſhall clearly deſpiſe,</l>
+               <l>
+                  <hi>if you do not grant me my deſire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>O Sir, quoth this pritty young Maid,</l>
+               <l>let me know what 'tis you would have,</l>
+               <l>For you need not at all be afraid,</l>
+               <l>I will grant what in reaſon you crave:</l>
+               <l>For I ne'r in my life could deny,</l>
+               <l>what a man did in Iuſtice require,</l>
+               <l>But you and I ſoon ſhall comply,</l>
+               <l>
+                  <hi>and I'le warrant I'le quench thy loves fire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>With that he began to draw nearer,</l>
+               <l>and gave her an amorous Kiſs,</l>
+               <l>He ſaid, he lov'd dearer and dearer,</l>
+               <l>and longed to taſt of the bliſs:</l>
+               <l>Quoth he, 'tis the Babes in thine eyes,</l>
+               <l>that ſet my poor heart all on fire,</l>
+               <l>Then do not thy Lover deſpiſe,</l>
+               <l>
+                  <hi>but grant me my wiſh and deſire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If thou art ſo earneſt to dally,</l>
+               <l>come make uſe of time while you may,</l>
+               <l>Thy skill I will not undervalue,</l>
+               <l>then prithee Love let's to the play;</l>
+               <l>Methinks thou art ſomewhat too tedious,</l>
+               <l>'tis time that we ſhould have been nigher,</l>
+               <l>To linger it ſeems to be grievous,</l>
+               <l>
+                  <hi>I'le warrant i'le quench thy loves fire.</hi>
+               </l>
+            </lg>
+            <p>
+               <figure/>
+            </p>
+            <lg>
+               <l>THe Young man ſuppoſing her greedy,</l>
+               <l>fell eagerly unto the ſport,</l>
+               <l>He found ſhe was wanting and needy,</l>
+               <l>and needleſs it was for to Court:</l>
+               <l>But as they were hugging together,</l>
+               <l>ſhe cry'd O, come nigher and nigher,</l>
+               <l>His heart was as light as a Feather,</l>
+               <l>
+                  <hi>and he had both his wiſh and deſire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Damſel was mightily pleaſed,</l>
+               <l>and kiſt him a thouſand times o're,</l>
+               <l>Quoth ſhe, now my ſorrows are eaſed,</l>
+               <l>but I muſt have a little touch more;</l>
+               <l>O lye down a while for to reſt thee,</l>
+               <l>that I may enjoy my deſire,</l>
+               <l>I hope that the fates they will bleſs thee,</l>
+               <l>
+                  <hi>I quench, but thou kindleſt my fire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No longer he ſtood there delaying,</l>
+               <l>but ſtoutly he fell to't agen,</l>
+               <l>Where he gave a puſh at their playing,</l>
+               <l>the Damſel returned him ten:</l>
+               <l>For ſhe grew more eager and eager,</l>
+               <l>her eyes they did ſparkle like fire,</l>
+               <l>Quoth he, I do owne I'm the weaker,</l>
+               <l>
+                  <hi>but ſtill I enjoy my deſire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Quoth ſhe, now how ſhould I be ſerved,</l>
+               <l>if thou ſhouldſt have got me with Child,</l>
+               <l>But 'tis no more then I deſerved,</l>
+               <l>for I was a little too wild:</l>
+               <l>I thought long till I did begin it,</l>
+               <l>and burnt with a fervent deſire,</l>
+               <l>VVhat pleaſure I felt in one minute,</l>
+               <l>
+                  <hi>adds fuel to amorous Fire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The young-man began for to tyre,</l>
+               <l>and his Cudgels began to lay down,</l>
+               <l>VVhich made the young Damſel admire,</l>
+               <l>and ſtraight ſhe began for to frown:</l>
+               <l>Quoth he, I have done what is fit,</l>
+               <l>no reaſon can more require,</l>
+               <l>But her brows then upon him ſhe knit,</l>
+               <l>
+                  <hi>and ſhe ſtill did want her deſire.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Then young men provide and be luſty,</l>
+               <l>again you do come to be try'd,</l>
+               <l>For Maidens look ſowre and cruſty,</l>
+               <l>when their wants cannot well be ſupply'd:</l>
+               <l>But 'twas an Old Proverb I heard,</l>
+               <l>though Men burnt with amorous ire,</l>
+               <l>That Damſels when once they come near,</l>
+               <l>
+                  <hi>could quench their moſt vigorous Fire.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
